@@ -1,7 +1,7 @@
 # JupyterLab
 JupyterLab on Docker
 
-# Reference
+# eference
 
 https://github.com/jupyterlab/jupyterlab
 
@@ -48,7 +48,7 @@ on console
 #### access on browser
 http://localhost:8880/lab?token={token}
 
-![JupyterLab](https://github.com/msakasai/JupyterLab/blob/master/image/screen1.png?raw=true "JupyterLab1")
+![JupyterLab](https://github.com/msakasai/JupyterLab_on_Docker/blob/master/image/screen1.png?raw=true "JupyterLab1")
 
-![JupyterLab](https://github.com/msakasai/JupyterLab/blob/master/image/screen2.png?raw=true "JupyterLab2")
+![JupyterLab](https://github.com/msakasai/JupyterLab_on_Docker/blob/master/image/screen2.png?raw=true "JupyterLab2")
 
