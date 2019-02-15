@@ -1,7 +1,7 @@
 # JupyterLab
 JupyterLab on Docker
 
-# eference
+# Reference
 
 https://github.com/jupyterlab/jupyterlab
 
