@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  jupyterlab:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    privileged: true
+    volumes:
+      - "../:/docker"
+    environment:
+      TZ: Asia/Tokyo
+    ports:
+      - "8880:8880"
+    tty: true
